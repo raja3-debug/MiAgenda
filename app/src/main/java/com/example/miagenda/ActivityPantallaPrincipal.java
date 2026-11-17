@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-public class ActivityPantallaPrincipal extends AppCompatActivity implements AdapterView.OnItemClickListener {
+public class ActivityPantallaPrincipal extends AppCompatActivity implements AdapterView.OnItemClickListener  {
     ListView list;
     TextView texto;
     Button nuevaTarea;
